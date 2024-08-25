@@ -1,0 +1,23 @@
+.card-component {
+    background-color:white;
+    margin: 10px auto;
+    border-radius: 35px;
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+}
+.card button {
+    border-style: none;
+    border-radius: 10px;
+    padding: 8px;
+    cursor: pointer;
+}
+.card-btn {
+    padding: 5px;
+    border-radius: 35px;
+    background-color: rgb(238, 134, 224);
+    margin: 0 5px;
+}
+input {
+    margin: 10px 5px;
+}
